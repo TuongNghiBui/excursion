@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.cta {
+    cursor: pointer;
+    transition: 0.3s;
+    color: aquamarine;
+    font-size: 18px;
+    text-decoration: underline;
+}
+
+.cta:hover {
+    color: rgb(136, 201, 179);
+}
+
+h2 {
+    margin: 0;
+    padding: 10px;
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.feature h2 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.description {
+    font-size: 21px;
+    color: rgb(167, 167, 167);
+}
+
+.medium {
+    margin: 20px auto;
+}
+
+footer {
+    text-align: right;
+    font-size: 20px;
+    color: gray;
+}
+
+footer p {
+    margin: 20px 5px 20px 0;
+}
+
+.guide {
+    width: 100%;
+}
+
+.guide img {
+    width: 65%;
+}
+
